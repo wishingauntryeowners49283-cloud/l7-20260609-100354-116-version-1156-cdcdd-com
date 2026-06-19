@@ -1,0 +1,13 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2016,
+  "category_pages": 12,
+  "category_card_coverage": 2000,
+  "analytics_inserted_all_html": true,
+  "detail_pages_match_movies": true,
+  "categories_cover_all_movies": true,
+  "forbidden_rule_phrases_found_in_sample": [],
+  "video_sources_reused": 20,
+  "cover_rule": "X = ((N - 1) % 150) + 1, referenced as top-level 1.jpg to 150.jpg"
+}

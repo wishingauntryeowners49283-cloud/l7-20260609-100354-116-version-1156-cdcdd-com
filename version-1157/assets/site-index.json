@@ -1,0 +1,47 @@
+{
+  "site": "高清影视大全",
+  "title": "免费国产高清影视在线观看 - 海量正版国产剧、电影、综艺无广告流畅播放平台",
+  "total": 2000,
+  "categories": [
+    {
+      "name": "精选片库",
+      "slug": "featured-library"
+    },
+    {
+      "name": "高清电影",
+      "slug": "hd-movies"
+    },
+    {
+      "name": "热播剧集",
+      "slug": "hot-series"
+    },
+    {
+      "name": "剧情经典",
+      "slug": "drama-classics"
+    },
+    {
+      "name": "动作惊悚",
+      "slug": "action-thriller"
+    },
+    {
+      "name": "爱情喜剧",
+      "slug": "romance-comedy"
+    },
+    {
+      "name": "悬疑犯罪",
+      "slug": "mystery-crime"
+    },
+    {
+      "name": "青春家庭",
+      "slug": "youth-family"
+    },
+    {
+      "name": "战争历史",
+      "slug": "war-history"
+    },
+    {
+      "name": "综艺动漫",
+      "slug": "variety-animation"
+    }
+  ]
+}
